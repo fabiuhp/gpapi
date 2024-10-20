@@ -1,1 +1,1 @@
-# gpapi
+# gp-api
